@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MyMoviese</string>
+    <string name="poster_of_movie">Постер к фильу</string>
+    <string name="most_popular">Самые популярные!</string>
+    <string name="most_rate">Наиболее рейтинговые!</string>
+    <string name="add_favorite">Фильм добавлен в избранное!</string>
+    <string name="delete_favorite">Фильм удален из избранного!</string>
+    <string name="item_main">Главная</string>
+    <string name="item_favorite">Избранное</string>
+    <string name="start_trailer">Запустить трейлер</string>
+</resources>
